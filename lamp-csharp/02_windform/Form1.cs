@@ -1,3 +1,5 @@
+//VERSION 02 LAMP - UPDATED FOR GITHUB 02/10/2024
+
 namespace _02_windform
 {
     public partial class Form1 : Form
