@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_windform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4eab44a5a2ef7aaa24c09658479ff08f4d8e3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c42a9e4730472484de5a579233724f00eeba5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_windform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_windform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
